@@ -1,4 +1,4 @@
-Oauth2 Simple Demo
+# Oauth2 Simple Demo
 
 Uses authorization code flow to request a token from Auth0 using a client ID and secret on the
 server-side. Must specify issuer URI, credentials, and scopes in application.properties.
