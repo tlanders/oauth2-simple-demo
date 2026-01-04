@@ -7,3 +7,5 @@ application.properties.
 Application must also be setup on Auth0 as a Regular Web Application prior to authenticating.
 
 In this scenario, this webapp is the client application and Auth0 is the authorization server and the resource server.
+
+This webapp is based on the [Spring Boot 2 OAuth2 tutorials](https://github.com/spring-guides/tut-spring-boot-oauth2).
